@@ -1,1 +1,1 @@
-# prometheus_DevOps
+# DevOps та Kubernetes. Практичний інтенсив
