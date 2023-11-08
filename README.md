@@ -17,4 +17,8 @@ https://go.dev/doc/install
 Install Docker
 https://docs.docker.com/engine/install/ubuntu/
 
+# docker login 
+
 Install K3s
+
+~~~curl -sfL https://get.k3s.io | sh - ~~~
