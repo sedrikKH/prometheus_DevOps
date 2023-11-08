@@ -21,4 +21,6 @@ https://docs.docker.com/engine/install/ubuntu/
 
 Install K3s
 
-~~~ curl -sfL https://get.k3s.io | sh - ~~~
+```markdown
+curl -sfL https://get.k3s.io | sh -
+```
